@@ -10,7 +10,7 @@ class AdsUtil {
   void createInterstitialAd() {
     InterstitialAd.load(
         adUnitId: Platform.isAndroid
-            ? 'ca-app-pub-1515414180407628/2660154406'
+            ? 'ca-app-pub-3940256099942544/1033173712'
             : 'ca-app-pub-1515414180407628/3497813101',
         request: const AdRequest(),
         adLoadCallback: InterstitialAdLoadCallback(

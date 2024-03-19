@@ -15,7 +15,7 @@ class NativeExampleState extends State<NativeExample> {
   final double _adAspectRatioMedium = (370 / 355);
 
   final String _adUnitId = Platform.isAndroid
-      ? 'ca-app-pub-1515414180407628/8224414220'
+      ? 'ca-app-pub-3940256099942544/2247696110'
       : 'ca-app-pub-1515414180407628/6044865645';
 
   @override

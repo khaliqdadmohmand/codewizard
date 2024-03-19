@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/minimal_grocery.iml" filepath="$PROJECT_DIR$/minimal_grocery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeWizard.iml" filepath="$PROJECT_DIR$/CodeWizard.iml" />
       <module fileurl="file://$PROJECT_DIR$/android/minimal_grocery_android.iml" filepath="$PROJECT_DIR$/android/minimal_grocery_android.iml" />
     </modules>
   </component>
